@@ -10,13 +10,13 @@ lot of importance especially in fields like photography, security, and marketing
 # Installation
 OpenCV-Python supports all the leading platforms like Mac OS, Linux, and Windows. It can
 be installed in either of the following ways:
-1. From pre-built binaries and source:
+* 1. From pre-built binaries and source:
 OpenCV can be easily downloaded from the website.
-2. Unofficial pre-built OpenCV packages for Python.
+* 2. Unofficial pre-built OpenCV packages for Python.
 Packages for standard desktop environments (Windows, macOS, almost any GNU/Linux
 distribution)
- run pip install opencv-python if you need only main modules
- run pip install opencv-contrib-python if you need both main and contrib modules
+ - run pip install opencv-python #if you need only main modules
+ - run pip install opencv-contrib-python #if you need both main and contrib modules
 (check extra modules listing from OpenCV documentation)
 You can either use Jupyter notebooks or any Python IDE of your choice for writing the
 scripts.
