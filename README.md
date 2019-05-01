@@ -1,6 +1,6 @@
 # OpenCV Face Detection
 
-###### OpenCV-minor-project
+## OpenCV-minor-project
 
 >Face detection is a computer vision technology that helps to locate/visualize human faces in
 digital images. This technique is a specific use case of object detection technology that deals
