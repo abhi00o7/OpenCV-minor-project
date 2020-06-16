@@ -1,4 +1,4 @@
-# OpenCV Face Detection
+# OpenCV Face Detection and Recognition
 
 ## OpenCV-minor-project
 
